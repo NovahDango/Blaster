@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"F:\\UnrealProjects\\Blaster\\Source\\Blaster\\Blaster.Build.cs",
-		"F:\\UnrealProjects\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
-		"F:\\UnrealProjects\\Blaster\\Source\\Blaster.Target.cs",
-		"F:\\UnrealProjects\\Blaster\\Source\\BlasterEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
