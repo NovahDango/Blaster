@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+Binaries/
+Saved/
+Intermediate/
+Plugins/MulitplayerSessions/Binaries/
+Plugins/MulitplayerSessions/Intermediate/
